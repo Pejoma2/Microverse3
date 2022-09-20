@@ -1,0 +1,9 @@
+@media #content (max-width: 150px) {
+    border: 10px solid; 
+  } 
+
+#navbar{
+    position: fixed;
+    top: 50px;
+    left:10px;  
+}
